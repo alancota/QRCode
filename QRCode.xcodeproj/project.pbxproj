@@ -163,7 +163,6 @@
 				TargetAttributes = {
 					CD5715EA1E4D43DD006D78F5 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = 85A3LY324E;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
 							com.apple.Keychain = {
@@ -377,7 +376,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = QRCode/QRCode.entitlements;
-				DEVELOPMENT_TEAM = 85A3LY324E;
+				DEVELOPMENT_TEAM = "";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -398,7 +397,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = QRCode/QRCode.entitlements;
-				DEVELOPMENT_TEAM = 85A3LY324E;
+				DEVELOPMENT_TEAM = "";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
