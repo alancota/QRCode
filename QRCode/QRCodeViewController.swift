@@ -61,7 +61,7 @@ class QRCodeViewController: UIViewController {
         })
         
         //Call the dummy API to trigger the default login screen
-        self.loginUser()
+        //self.loginUser()
     }
 
     // MARK: - Navigation
