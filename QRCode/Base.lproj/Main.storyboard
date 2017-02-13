@@ -35,12 +35,13 @@
                                 <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="G5Z-kd-4EX">
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="G5Z-kd-4EX">
                                 <rect key="frame" x="130" y="289" width="114" height="88"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="88" id="NCg-ka-ya1"/>
                                     <constraint firstAttribute="width" constant="114" id="pCZ-mc-pFH"/>
                                 </constraints>
+                                <color key="tintColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <state key="normal" image="focus"/>
                                 <connections>
                                     <segue destination="rpV-Tj-ubK" kind="show" id="6eE-VK-qVa"/>
@@ -194,7 +195,7 @@
     <resources>
         <image name="CA_r_1c_Black_2014_Transparent" width="285" height="226"/>
         <image name="close" width="30" height="30"/>
-        <image name="focus" width="512" height="512"/>
+        <image name="focus" width="150" height="150"/>
         <image name="login" width="100" height="100"/>
         <image name="logout" width="100" height="100"/>
         <image name="usernotfilled" width="100" height="100"/>
